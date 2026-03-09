@@ -8,7 +8,7 @@
 
 ## Phase 1 — Gateway Foundation (current)
 
-- ✅ Produktkonzept und Architektur-Dokument (v2.3)
+- ✅ Produktkonzept und Architektur-Dokument (v2.4)
 - ✅ WIRE Gateway API Spec v1 (Draft)
 - ✅ OpenAPI 3.1 Definition
 - ✅ Optionale Bindings — soft-default ([#2](https://github.com/moongrabber/wire-gateway-spec/issues/2))
