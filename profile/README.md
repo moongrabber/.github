@@ -1,8 +1,6 @@
 # moongrabber
 
-The company behind **WIRE** — the first gateway for the [Yodel protocol](https://github.com/openyodel).
-
-Yodel is the open protocol. WIRE is the commercial product.
+The Organisation behind **WIRE** — the first gateway for the [Yodel protocol](https://github.com/openyodel).
 
 ## Repos
 
@@ -19,6 +17,4 @@ See [ROADMAP.md](https://github.com/moongrabber/.github/blob/main/ROADMAP.md) fo
 
 | Repo | Purpose |
 |------|---------|
-| [openyodel/spec](https://github.com/openyodel/spec) | Yodel protocol specification |
-| [openyodel/swift](https://github.com/openyodel/swift) | iOS SDK |
-| [openyodel/js](https://github.com/openyodel/js) | Web/PWA SDK |
+| [openyodel](https://github.com/openyodel) | Yodel protocol |
